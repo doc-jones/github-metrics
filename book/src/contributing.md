@@ -37,7 +37,7 @@ Consider these guidelines to be lightweight. You should not be afraid of breakin
 
 **Inclusive Language**  https://heyguys.cc/
 
-  Do use these terms: everyone, everybody, all, you all, y'all, folks, friends, people.
+  Do use these terms: everyone, everybody, all, you all, y'all, folks, friends, people, team.
 
 ⛔️ Do not use "guys"
 
