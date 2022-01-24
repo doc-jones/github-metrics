@@ -2,7 +2,7 @@
 name = "optopodi"
 version = "0.1.0"
 authors = ["Niko Matsakis <niko@alum.mit.edu>"]
-edition = "2018"
+edition = "2021"
 
 [dependencies]
 octocrab = "0.9.0"

@@ -25,7 +25,7 @@ pub struct Report {
 }
 
 #[derive(Debug, Deserialize)]
-struct ReportConfig {
+pub struct ReportConfig {
     github: GithubConfig,
     high_contributor: HighContributorConfig,
     data_source: DataSourceConfig,

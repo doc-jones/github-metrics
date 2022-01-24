@@ -1,4 +1,4 @@
-use super::{Report, ReportConfig, ReportData};
+pub use super::{Report, ReportConfig, ReportData};
 use crate::util::percentage;
 
 use std::{
